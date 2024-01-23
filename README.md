@@ -1,4 +1,4 @@
-# To-Do List Program Documentation
+# To-Do List
 
 The To-Do List program is a simple console-based application written in Java that allows users to manage a list of tasks. Users can add new tasks, remove existing tasks, mark tasks as completed, and view the current list of tasks. The program is designed to provide a straightforward and intuitive interface for basic task management.
 
